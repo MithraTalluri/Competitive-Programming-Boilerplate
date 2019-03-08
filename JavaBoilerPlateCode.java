@@ -19,8 +19,12 @@ public class Main {
         InputReader in = new InputReader(inputStream);
         BufferedWriter out = new BufferedWriter(new OutputStreamWriter(outputStream));
 
+        //number of testcases
         int t = in.nextInt();
         while(t-- > 0){
+            /*
+                ENTER YOUR LOGIC HERE
+            */
         }
         out.flush();
 
